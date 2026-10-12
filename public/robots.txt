@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Allow crawling when the domain moves here (see CLAUDE.md)
